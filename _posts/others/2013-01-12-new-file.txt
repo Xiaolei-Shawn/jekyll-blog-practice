@@ -1,0 +1,8 @@
+---
+title: Star War The force awaken
+meta: Latest StarWar movie
+source: http://www.imdb.com/title/tt2488496/
+category: news
+---
+
+Watch it
