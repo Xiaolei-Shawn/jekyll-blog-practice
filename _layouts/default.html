@@ -8,11 +8,12 @@
 <body>
 	<header>
 	<h1>Titles</h1>
-	{% include nav.html %}
+	{% include nav.html navclass='nav-top' %}
 	</header>
 
 {{content}}
 <footer>
+	{% include nav.html navclass='nav-bottom' %}
     <p>Jekyll practice</p>
 </footer>
 </body>
